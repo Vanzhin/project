@@ -1,2 +1,5 @@
 hello from mac
+<<<<<<< HEAD
 hello from mac kraken 1
+=======
+>>>>>>> dev-kraken
