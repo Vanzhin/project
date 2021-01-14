@@ -1,6 +1,10 @@
 hello from mac
+<<<<<<< main
 <<<<<<< HEAD
 hello from mac kraken 1
 =======
 >>>>>>> dev-kraken
 hello from github
+=======
+hello from git kraken
+>>>>>>> change dev.txt
